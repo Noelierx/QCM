@@ -3,7 +3,7 @@
 ## Instructions
 - Cochez les cases correspondant à vos réponses en remplaçant [ ] par [x]
 - Les questions à choix multiples sont précisées
-- Compléter le document et l'envoyer à l'adresse mail noelie.roux2@eemi.com
+- Compléter le document et l'envoyer sur EEMI.tech
 - Prénom Nom : _______________________
 
 ## 1. Fondamentaux de l'accessibilité
